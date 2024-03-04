@@ -1,6 +1,6 @@
 Three Layer Rendering - Blender Add-on
 
-Automatically splits geometry into three different view layers (Background, Foreground and Focus), giving the ability to do profesional renderings, in just a few seconds by pressing 2 buttons.
+Automatically splits geometry into three different view layers (Background, Foreground and Focus), giving the ability to do profesional renderings in just a few seconds by pressing 2 buttons.
 
 Press a button to split objects or collections, and press another button to create the View Layers. Once you have all your objects and collections processed, you will find an interface to setup each view layer with its passes and the collections directly, without the need to switch between them (which is a waste of time sometimes).
 
