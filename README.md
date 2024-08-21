@@ -32,24 +32,21 @@ Well, it is not true. We can tweak some stuff, to get something similar to that 
 Enjoy it!!!
 
 
-How to use it?
+## Documentation
 
-Select Focus object, select camera (or active camera will be used instead.
-Select the objects you want to split (or a collection), and press Process button.
-Once you end up splitting, press Create View Layers button.
-Now you can render.
-All View Layers related settings for the final render will be available without actually switching between them. 
-Thats all!
+### Guides and Info
 
-How to install this addon:
+- [How to use this add-on](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-use-this-addon)
+- [How to install this add-on - v1.3](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-use-this-add%E2%80%90on-v1.3)
+- [How to install this add-on (Outdated)](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-install-this-addon)
 
-- Download the zip file.
-- Open Blender and go to Edit - Preferences
-- Go to Add-ons Tab.
-- Press Install button, and search for the downloaded zip file.
-- Select it and press Install
-- Just click the box to enable it and you are ready to go.
+### Changelog
 
-Enjoy it!!!
+- [Changelog](https://github.com/OlyDJ/ThreeLayerRendering/wiki/Changelog)
+
+### Troubleshooting
+
+- [Most asked question](https://github.com/OlyDJ/ThreeLayerRendering/wiki/Most-asked-questions)
+
 
 
