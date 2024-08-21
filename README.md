@@ -37,7 +37,7 @@ Enjoy it!!!
 ### Guides and Info
 
 - [How to use this add-on](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-use-this-addon)
-- [How to install this add-on - v1.3](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-use-this-add%E2%80%90on-v1.3)
+- [How to use this add-on - v1.3](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-use-this-add%E2%80%90on-v1.3)
 - [How to install this add-on (Outdated)](https://github.com/OlyDJ/ThreeLayerRendering/wiki/How-to-install-this-addon)
 
 ### Changelog
