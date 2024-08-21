@@ -9,18 +9,15 @@ For objects with Geometry Nodes, TLR will try to find the "first" Instances On P
 Support for Blender 4 +
 
 - Splits geometry into 3 different layers (Background, Foreground and Focus).
-- Creates automatically View Layers for each one. 
-- Select a camera, or active camera (with timeline markers) will be used instead.
-- Option to change Foreground width.
-- Option to change Focus object location, rotation and scale.
-- Option to change Masks Z location (which depending on the total height of your scene can be usefull). 
-- Create a new View Layer for selected objects or active collection with just one click.
-- Interface to switch between View Layers options without actually change the active View Layer (which is a time saving depending on the project).
-- Option to exclude View Layers directly.
+- Creates View Layers for each one automatically.
+- Create new View Layer for selected objects or active collection with just one click (recursive collections included).
+- Interface to switch between View Layers options directly, without actually change the active View Layer (which is time and resource saving).
 - Change View Layer passes directly.
-- Change Exclude, Hide In Viewport, Holdout and Only Indirect of any collection directly.
-- Option to show only TLR View Layers.
-- Option to show only TLR collections.
+- Change Exclude, Hide In Viewport, Holdout and Only Indirect of any collection directly for selected View Layer.
+- Camera Culling.
+- Change View Layers order.
+- Automatic Composition Node from scene. Create a composition node group, and mix all layers and passes in the given order inside of it. 
+- Automatic Composition Node from EXR files. YES!!! Select a MultiLayer EXR file, set correct order for layers and save a lot of time by pressing just one button.
 
 Why I created TLR?
 
